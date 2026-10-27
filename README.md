@@ -1,4 +1,4 @@
-# JIRA_testing
+# Jira testing methodology
 
 ### cve-2019-8449 - Username enumeration throw informaton disclosure vulnerability 
 
